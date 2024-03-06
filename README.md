@@ -19,7 +19,9 @@ This project employs generative adversarial neural networks (GANs) to generate n
 GANs work by training two models in tandem: a generator that creates images and a discriminator that evaluates their authenticity. By iterating through cycles of generation and discrimination, the system learns to produce images that closely mimic the original datasets, resulting in high-quality, synthetic X-ray and Simpsons character images.
 
 ![simpsons train](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDg0YmdmcDYxOHFkZHFvcGFzaGc5Z2t3dHZ3M2lidjZuZmcycmprMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J4owQB2VTXQfNcVo6c/giphy.gif)
+
 ![simpsons train](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRzdWQxY2U0bnQxdGJ6bWJnbXR1cDUzMmloM2NobXU2bjQ5aXc1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SNYzfsKx9GJcQod6Gk/giphy.gif)
 
 ![mednist train](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXk1NmxtdGtnMTJjaDlwdndnY3VzYjBmbzIzZzc1ZHJiYWp3ZHQzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XSAfesQsANm87uwKsZ/giphy.gif)
+
 ![mednist train](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjB4cWloNHEzZnY0cmR2NGU2YXBnOWU3OHZmZTN5dnppbzMwZGxibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SfTQWbRYRaTWIG8lDU/giphy.gif)
